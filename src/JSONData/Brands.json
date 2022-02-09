@@ -1,0 +1,37 @@
+[
+    {   
+        "id": 1,
+        "brandName": "Acne",
+        "productsCount": 23
+    },
+    {   
+        "id": 2,
+        "brandName": "Grune Erde",
+        "productsCount": 43
+    },
+    {   
+        "id": 3,
+        "brandName": "Albiro",
+        "productsCount": 56
+    },
+    {   
+        "id": 4,
+        "brandName": "Ronhill",
+        "productsCount": 98
+    },
+    {   
+        "id": 5,
+        "brandName": "Oddmolly",
+        "productsCount": 24
+    },
+    {   
+        "id": 6,
+        "brandName": "Boudestijn",
+        "productsCount": 14
+    },
+    {   
+        "id": 7,
+        "brandName": "Rosch creative culture",
+        "productsCount":53
+    }
+]

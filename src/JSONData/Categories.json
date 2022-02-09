@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "category": "SPORTSWEAR",
+        "subcategorylist": [
+            {
+                "id": 1,
+                "subcategory": "Nike"
+            },
+            {
+                "id": 2,
+                "subcategory": "UNDER ARMOUR"
+            },
+            {
+                "id": 3,
+                "subcategory": "Adidas"
+            },
+            {
+                "id": 4,
+                "subcategory": "Puma"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "category": "Men",
+        "subcategorylist": [
+            {
+                "id": 1,
+                "subcategory": "FENDI"
+            },
+            {
+                "id": 2,
+                "subcategory": "GUESS"
+            },
+            {
+                "id": 3,
+                "subcategory": "VALENTINO"
+            },
+            {
+                "id": 4,
+                "subcategory": "DIOR"
+            },
+            {
+                "id": 5,
+                "subcategory": "ARMANI"
+            },
+            {
+                "id": 6,
+                "subcategory": "PRADA"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "category": "Women",
+        "subcategorylist": [
+            {
+                "id": 1,
+                "subcategory": "FENDI"
+            },
+            {
+                "id": 2,
+                "subcategory": "GUESS"
+            },
+            {
+                "id": 3,
+                "subcategory": "VALENTINO"
+            },
+            {
+                "id": 4,
+                "subcategory": "VERSACE"
+            }
+        ]
+    },
+
+    {
+        "id": 4,
+        "category": "KIDS",
+        "subcategorylist": []
+    },
+
+    {
+        "id": 5,
+        "category": "FASHION",
+        "subcategorylist": []
+    },
+
+    {
+        "id": 6,
+        "category": "INTERIORS",
+        "subcategorylist": []
+    },
+
+    {
+        "id": 7,
+        "category": "BAGS",
+        "subcategorylist": []
+    }
+]

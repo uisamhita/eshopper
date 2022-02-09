@@ -1,0 +1,26 @@
+[
+    {   
+        "id": 1,
+        "storeName" : "Nike"
+    },
+    {   
+        "id": 2,
+        "storeName" : "Adidas"
+    },
+    {   
+        "id": 3,
+        "storeName" : "Woodland"
+    },
+    {   
+        "id": 4,
+        "storeName" : "Crocodile"
+    },
+    {   
+        "id": 5,
+        "storeName" : "HushPuppies"
+    },
+    {   
+        "id": 6,
+        "storeName" : "Bata"
+    }
+]
